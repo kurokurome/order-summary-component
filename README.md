@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -19,8 +19,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![Desktop Screenshot](https://github.com/kurokurome/nft-preview-card-component/blob/5eeec94908ef4181367dc9a0d409e4ee67466f4b/Desktop-Preview.png)
-![Mobile Screenshot](https://github.com/kurokurome/nft-preview-card-component/blob/5eeec94908ef4181367dc9a0d409e4ee67466f4b/Mobile-Preview.png)
+![Desktop Screenshot](https://github.com/kurokurome/order-summary-component/blob/1589639362205d62684dfb73746b748a378ad992/Desktop-Preview.png)
+![Mobile Screenshot](https://github.com/kurokurome/order-summary-component/blob/1589639362205d62684dfb73746b748a378ad992/Mobile-Preview.png)
 
 ## My process
 
